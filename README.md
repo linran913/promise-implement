@@ -6,7 +6,7 @@ This is a simple implementation of Promises.
 
 to run (promises-aplus-tests)[https://github.com/promises-aplus/promises-tests] using the following command:
 
-'''shell
+```shell
 npm install
 npm run test
-'''
+```
